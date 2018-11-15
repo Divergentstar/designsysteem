@@ -1,0 +1,54 @@
+/* GLOBAL SETTINGS */
+/* NAV */
+/* BORDER */
+/* FOOTER */
+/* BUTTONS */
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.footer {
+  padding: 2.5rem 0;
+  color: #999999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 0.05rem solid #e5e5e5;
+}
+
+.footer p:last-child {
+  margin-bottom: 0;
+}
+
+.btn-primary {
+  color: rgba(0, 188, 240, 0.055);
+}
+
+.btn {
+  border: 5px solid burlywood;
+  border-radius: 0%;
+  color: #000000;
+  font-weight: bold;
+}
+
+.nav, .nav-item, .nav-link {
+  background-color: #84bcf0;
+  color: #FFFFFF;
+}
+
+.navbar-brand {
+  background-color: #84bcf0;
+  color: #FFFFFF;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 2.25rem;
+}
+
+.navbar-brand:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=custom.css.map */

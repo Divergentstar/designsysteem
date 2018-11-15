@@ -1,0 +1,20 @@
+body{
+    background-color: $white;
+    color: $black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font;
+}
+
+.footer {
+    padding: 2.5rem 0;
+    color: $footer-color;
+    text-align: center;
+    background-color: $footer-bgcolor;
+    border-top: .05rem solid $border-color;
+}
+  
+.footer p:last-child {
+    margin-bottom: 0;
+}
